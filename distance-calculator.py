@@ -1,4 +1,6 @@
+# Imports custom functions to help the code with mathematical functions that are not found locally
 import math
+
 # Prompt the user for input coordinates
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
